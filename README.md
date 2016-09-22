@@ -3,7 +3,8 @@
 
   引入Maven 库
 
-  <repositories>
+
+  	<repositories>
 		<repository>
 			<id>atliwen</id>
 			<url>https://raw.githubusercontent.com/atliwen/maven-repo/master/repository</url>
