@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.currencyboot.mq</groupId>
+  <artifactId>currencyboot-mq</artifactId>
+  <versioning>
+    <versions>
+      <version>2.3.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20160922053720</lastUpdated>
+  </versioning>
+</metadata>
