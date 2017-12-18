@@ -2,23 +2,22 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.currencyboot.mq</groupId>
   <artifactId>currencyboot-mq</artifactId>
-  <version>2.3.1-SNAPSHOT</version>
+  <version>2.4.1-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20160922.053720</timestamp>
-      <buildNumber>1</buildNumber>
+      <localCopy>true</localCopy>
     </snapshot>
-    <lastUpdated>20160922053720</lastUpdated>
+    <lastUpdated>20171218064444</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>2.3.1-20160922.053720-1</value>
-        <updated>20160922053720</updated>
+        <value>2.4.1-SNAPSHOT</value>
+        <updated>20171218064444</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>2.3.1-20160922.053720-1</value>
-        <updated>20160922053720</updated>
+        <value>2.4.1-SNAPSHOT</value>
+        <updated>20171218064444</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
